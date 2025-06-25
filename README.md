@@ -61,7 +61,6 @@ The goal of this task is to analyze a suspicious email claiming to be from PayPa
 
 This phishing email is a clear example of email spoofing and social engineering. Through this exercise, I gained practical experience in email header analysis and improved my awareness of common phishing tactics and email-based threats.
 
----
 
 
 
