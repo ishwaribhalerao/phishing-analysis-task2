@@ -34,13 +34,13 @@ The goal of this task is to analyze a suspicious email claiming to be from PayPa
 
 ## 🧪 Technical Header Snapshot
 
-Return-Path: support@paypal-accounts.com
-Received: from smtp-fakehost.xyz (smtp-fakehost.xyz [185.244.25.17])
-by mail.recipientdomain.com (Postfix)
-From: "PayPal" support@paypal-accounts.com
-Subject: [PayPal]: Your account access has been limited
-SPF: fail
-DKIM: fail
-DMARC: fail
-X-Mailer: PHPMailer 6.6.3
+`Return-Path: support@paypal-accounts.com`
+`Received: from smtp-fakehost.xyz (smtp-fakehost.xyz [185.244.25.17])`
+`by mail.recipientdomain.com (Postfix)`
+`From: "PayPal" support@paypal-accounts.com`
+`Subject: [PayPal]: Your account access has been limited`
+`SPF: fail`
+`DKIM: fail`
+`DMARC: fail`
+`X-Mailer: PHPMailer 6.6.3`
 
