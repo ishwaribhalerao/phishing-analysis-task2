@@ -63,10 +63,5 @@ This phishing email is a clear example of email spoofing and social engineering.
 
 ---
 
-## 👤 Author
-
-**Aarav Mehta** *(Alias used for training)*  
-Cyber Security Intern  
-Task completed on **June 25, 2025**
 
 
