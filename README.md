@@ -32,15 +32,41 @@ The goal of this task is to analyze a suspicious email claiming to be from PayPa
 
 ---
 
-## 🧪 Technical Header Snapshot
 
-`Return-Path: support@paypal-accounts.com`
-`Received: from smtp-fakehost.xyz (smtp-fakehost.xyz [185.244.25.17])`
-`by mail.recipientdomain.com (Postfix)`
-`From: "PayPal" support@paypal-accounts.com`
-`Subject: [PayPal]: Your account access has been limited`
-`SPF: fail`
-`DKIM: fail`
-`DMARC: fail`
-`X-Mailer: PHPMailer 6.6.3`
+---
+
+## 🧰 Tools Used
+
+- **Google Admin Toolbox: Messageheader**  
+  👉 [https://toolbox.googleapps.com/apps/messageheader/](https://toolbox.googleapps.com/apps/messageheader/)
+
+---
+
+## 📸 Screenshots
+
+- `email_header_analysis.png` — Screenshot of Google Admin Toolbox result
+
+---
+
+## 📚 Key Concepts Demonstrated
+
+- Email Spoofing
+- Header Analysis (SPF, DKIM, DMARC)
+- Social Engineering Awareness
+- Threat Detection & Phishing Indicators
+
+---
+
+## ✅ Conclusion
+
+This phishing email is a clear example of email spoofing and social engineering. Through this exercise, I gained practical experience in email header analysis and improved my awareness of common phishing tactics and email-based threats.
+
+---
+
+## 👤 Author
+
+**Aarav Mehta** *(Alias used for training)*  
+Cyber Security Intern  
+Task completed on **June 25, 2025**
+
 
